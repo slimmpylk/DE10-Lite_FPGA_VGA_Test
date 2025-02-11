@@ -20,7 +20,8 @@ How It Works
         Each section is filled with one of the primary colors: red, green, or blue.
         Outside the active region, the color signals are set to black.
 
-![vgatesti](https://github.com/user-attachments/assets/b69c75f6-40d1-4d4e-b1f5-a0187bc6c11a)
+<img src="https://github.com/user-attachments/assets/b69c75f6-40d1-4d4e-b1f5-a0187bc6c11a" width="300">
+
 
 
 File Description
